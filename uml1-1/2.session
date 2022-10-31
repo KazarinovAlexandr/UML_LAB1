@@ -1,0 +1,14 @@
+window_sizes 1436 910 450 981 760 104
+
+diagrams
+  active  classdiagram_ref 128130 // ClassDiagram1
+    784 608 100 A4 0 0
+end
+show_stereotypes
+selected attribute_ref 128130 // m_data
+open
+  class_ref 128130 // BaseData
+  class_ref 128258 // IntData
+end
+end
+verbose
